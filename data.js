@@ -1,0 +1,1 @@
+window.DEALER_DATA = "+json.dumps(records,ensure_ascii=False,separators=(',',':'))+";
